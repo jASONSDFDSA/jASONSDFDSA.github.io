@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter: 
-  username               : "Remaker"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -69,7 +69,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: 
-    - https://twitter.com/OK20668504 # An array of links to social media profiles
+     # An array of links to social media profiles
 
 
 # Analytics
